@@ -1,2 +1,10 @@
 kaggle
 colorama
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+plotly.express
+os
+warnings
+time
