@@ -1,3 +1,4 @@
+flask
 kaggle
 colorama
 numpy
